@@ -5,8 +5,11 @@ checkpoints/
 *.pyc
 .idea/
 __pycache__/
+pretrained/
 results/
+runs/
+samples/
+test_results/
 checkpoints_bak
 cityscapes
-test_results/
-runs/
+
